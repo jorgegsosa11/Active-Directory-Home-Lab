@@ -1,5 +1,8 @@
 # 🛠️ Active-Directory-Home-Lab
 
+![AD Lab Diagram](AD_lab_diagram.png)
+
+
 ## Essentials
 - VirtualBox
 - Windows 10 ISO
