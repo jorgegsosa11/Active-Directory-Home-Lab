@@ -160,3 +160,9 @@ At this point, your lab setup includes:
 | **Users** | Created via PowerShell script |
 | **Status** | Fully functional AD lab with internet access |
 
+---
+
+## 📌 Credits
+This lab setup is inspired by [Joshua Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI).  
+
+
